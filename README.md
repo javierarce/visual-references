@@ -5,6 +5,7 @@ Websites I like.
 - [bakkenbaeck.com](https://bakkenbaeck.com)
 - [billblass.com](https://billblass.com)
 - [braul.io](http://www.braul.io/)
+- [braulioamado.tumblr.com](http://braulioamado.tumblr.com)
 - [camelot-typefaces.com](https://www.camelot-typefaces.com)
 - [canopy.co](https://canopy.co)
 - [carlkleiner.com](http://www.carlkleiner.com)
@@ -49,3 +50,5 @@ Websites I like.
 - [velvet.la](http://velvet.la)
 - [welcometosummer.land](http://www.welcometosummer.land)
 - [xxix.co](http://www.xxix.co)
+
+- [My Tumblr likes](https://www.tumblr.com/liked/by/javierarce)
