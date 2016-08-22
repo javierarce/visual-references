@@ -55,3 +55,19 @@ Websites I like.
 ### Images
 
 - [My Tumblr likes](https://www.tumblr.com/liked/by/javierarce)
+
+
+### Illustrators
+
+*WIP*
+
+- [Brian Rea](http://www.brianrea.com/)
+- [Daniel Shaffer](http://www.daniel-shaffer.com)
+- [Javier Jaén](http://www.javierjaen.com)
+- [Luis Mendo](http://www.luismendo.com/)
+- [Maria Ines](http://mariainesgul.com)
+- [Nicolas Ménard](http://www.nicolasmenard.com)
+- [Ping Zhu](http://www.pingszoo.com/)
+- [Puño](http://www.kokekoko.com)
+- [Raymond Lemstra](http://www.raymondlemstra.nl)
+- [Sophia Foster-Dimino](http://www.hellophia.com/)
