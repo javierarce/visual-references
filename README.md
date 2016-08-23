@@ -44,6 +44,7 @@ Websites I like.
 - [smallvictori.es](http://www.smallvictori.es)
 - [stephencoles.org](http://stephencoles.org)
 - [studio-laucke-siebein.com](http://studio-laucke-siebein.com)
+- [studiomister.com](http://www.studiomister.com)
 - [superfamous.com](http://superfamous.com)
 - [toools.co](http://www.toools.co)
 - [typemedia2015.com](http://www.typemedia2015.com)
