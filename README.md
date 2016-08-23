@@ -4,7 +4,7 @@ Websites I like.
 - [aqqindex.com](http://aqqindex.com)
 - [bakkenbaeck.com](https://bakkenbaeck.com)
 - [billblass.com](https://billblass.com)
-- [braul.io](http://www.braul.io/)
+- [braul.io](http://www.braul.io)
 - [braulioamado.tumblr.com](http://braulioamado.tumblr.com)
 - [camelot-typefaces.com](https://www.camelot-typefaces.com)
 - [canopy.co](https://canopy.co)
@@ -61,13 +61,14 @@ Websites I like.
 
 *WIP*
 
-- [Brian Rea](http://www.brianrea.com/)
+- [Brian Rea](http://www.brianrea.com)
 - [Daniel Shaffer](http://www.daniel-shaffer.com)
+- [Eleni Kalorkoti](http://www.elenikalorkoti.com)
 - [Javier Jaén](http://www.javierjaen.com)
-- [Luis Mendo](http://www.luismendo.com/)
+- [Luis Mendo](http://www.luismendo.com)
 - [Maria Ines](http://mariainesgul.com)
 - [Nicolas Ménard](http://www.nicolasmenard.com)
-- [Ping Zhu](http://www.pingszoo.com/)
+- [Ping Zhu](http://www.pingszoo.com)
 - [Puño](http://www.kokekoko.com)
 - [Raymond Lemstra](http://www.raymondlemstra.nl)
-- [Sophia Foster-Dimino](http://www.hellophia.com/)
+- [Sophia Foster-Dimino](http://www.hellophia.com)
