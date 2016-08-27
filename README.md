@@ -73,3 +73,14 @@ Websites I like.
 - [Puño](http://www.kokekoko.com)
 - [Raymond Lemstra](http://www.raymondlemstra.nl)
 - [Sophia Foster-Dimino](http://www.hellophia.com)
+
+### Foundries
+
+- [boldmonday.com](https://boldmonday.com)
+- [colophon-foundry.org](http://www.colophon-foundry.org)
+- [commercialtype.com](https://commercialtype.com)
+- [grillitype.com](http://grillitype.com)
+- [klim.co.nz](https://klim.co.nz)
+- [open-foundry.com](http://open-foundry.com)
+- [radimpesko.com](http://www.radimpesko.com)
+- [yoannminet.fr](http://www.yoannminet.fr)
