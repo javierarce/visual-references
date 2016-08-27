@@ -2,6 +2,7 @@
 
 - [antonandirene.com](http://antonandirene.com)
 - [aqqindex.com](http://aqqindex.com)
+- [badesaison.ch](http://www.badesaison.ch)
 - [bakkenbaeck.com](https://bakkenbaeck.com)
 - [billblass.com](https://billblass.com)
 - [braul.io](http://www.braul.io)
