@@ -84,4 +84,5 @@
 - [klim.co.nz](https://klim.co.nz)
 - [open-foundry.com](http://open-foundry.com)
 - [radimpesko.com](http://www.radimpesko.com)
+- [usemodify.com](http://usemodify.com)
 - [yoannminet.fr](http://www.yoannminet.fr)
