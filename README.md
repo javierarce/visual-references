@@ -45,6 +45,7 @@
 - [raymasaki.cool](http://raymasaki.cool)
 - [schick-toikka.com](http://www.schick-toikka.com)
 - [showcase.persona.co](https://showcase.persona.co)
+- [shuka.design](https://shuka.design)
 - [smallvictori.es](http://www.smallvictori.es)
 - [stephencoles.org](http://stephencoles.org)
 - [studio-laucke-siebein.com](http://studio-laucke-siebein.com)
@@ -56,6 +57,7 @@
 - [velvet.la](http://velvet.la)
 - [welcometosummer.land](http://www.welcometosummer.land)
 - [xxix.co](http://www.xxix.co)
+
 ### Images
 
 - [My Tumblr likes](https://www.tumblr.com/liked/by/javierarce)
@@ -84,6 +86,7 @@
 - [commercialtype.com](https://commercialtype.com)
 - [grillitype.com](http://grillitype.com)
 - [klim.co.nz](https://klim.co.nz)
+- [lettersfromsweden.se](http://lettersfromsweden.se)
 - [open-foundry.com](http://open-foundry.com)
 - [radimpesko.com](http://www.radimpesko.com)
 - [usemodify.com](http://usemodify.com)
