@@ -48,6 +48,7 @@
 - [practicaltypography.com](http://practicaltypography.com/typography-in-ten-minutes.html)
 - [raymasaki.cool](http://raymasaki.cool)
 - [schick-toikka.com](http://www.schick-toikka.com)
+- [seththompson.org](https://seththompson.org)
 - [showcase.persona.co](https://showcase.persona.co)
 - [shuka.design](https://shuka.design)
 - [smallvictori.es](http://www.smallvictori.es)
