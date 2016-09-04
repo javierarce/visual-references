@@ -72,6 +72,7 @@
 *WIP*
 
 - [Brian Rea](http://www.brianrea.com)
+- [Cute Brute ](https://www.instagram.com/thecutebrute/)
 - [Daniel Shaffer](http://www.daniel-shaffer.com)
 - [Eleni Kalorkoti](http://www.elenikalorkoti.com)
 - [Javier Jaén](http://www.javierjaen.com)
