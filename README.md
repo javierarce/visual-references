@@ -79,6 +79,7 @@
 - [Daniel Shaffer](http://www.daniel-shaffer.com)
 - [Eleni Kalorkoti](http://www.elenikalorkoti.com)
 - [Javier Jaén](http://www.javierjaen.com)
+- [josé ja ja ja](http://josejajaja.com)
 - [Kikillo Serrano](https://dribbble.com/Kikillo)
 - [Lasse Russe](http://lazpit.com)
 - [Laszlo Kovacs](http://www.laszlito.com/)
