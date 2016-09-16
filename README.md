@@ -48,6 +48,7 @@
 - [paulgacon.com](http://paulgacon.com/en)
 - [persona.co](https://persona.co)
 - [peteanicholson.com](http://peteanicholson.com)
+- [pizzapizza.io](http://pizzapizza.io)
 - [practicaltypography.com](http://practicaltypography.com/typography-in-ten-minutes.html)
 - [raymasaki.cool](http://raymasaki.cool)
 - [schick-toikka.com](http://www.schick-toikka.com)
