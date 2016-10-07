@@ -35,6 +35,7 @@
 - [julienlelievre.com](http://www.julienlelievre.com)
 - [justinsloane.com](http://justinsloane.com)
 - [kokpistolet.nl](http://kokpistolet.nl)
+- [kulachek.com](http://kulachek.com)
 - [kz.benwest.webfactional.com](http://kz.benwest.webfactional.com)
 - [lars-mueller-publishers.com](https://www.lars-mueller-publishers.com)
 - [leejaemin.net](http://www.leejaemin.net)
@@ -106,7 +107,6 @@
 
 ### Foundries
 
-- [bb-bureau.fr](http://www.bb-bureau.fr)
 - [boldmonday.com](https://boldmonday.com)
 - [colophon-foundry.org](http://www.colophon-foundry.org)
 - [commercialtype.com](https://commercialtype.com)
