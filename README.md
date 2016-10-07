@@ -106,6 +106,7 @@
 
 ### Foundries
 
+- [bb-bureau.fr](http://www.bb-bureau.fr)
 - [boldmonday.com](https://boldmonday.com)
 - [colophon-foundry.org](http://www.colophon-foundry.org)
 - [commercialtype.com](https://commercialtype.com)
