@@ -73,6 +73,7 @@
 - [velvet.la](http://velvet.la)
 - [welcometosummer.land](http://www.welcometosummer.land)
 - [xxix.co](http://www.xxix.co)
+- [youngjerks.com](http://youngjerks.com)
 
 ### Images
 
