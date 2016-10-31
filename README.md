@@ -118,4 +118,5 @@
 - [radimpesko.com](http://www.radimpesko.com)
 - [thepytefoundry.net](http://thepytefoundry.net)
 - [usemodify.com](http://usemodify.com)
+- [wantthatfont.ca](http://www.wantthatfont.ca)
 - [yoannminet.fr](http://www.yoannminet.fr)
