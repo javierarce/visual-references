@@ -71,6 +71,7 @@
 - [typemedia2015.com](http://www.typemedia2015.com)
 - [unfun.de](http://unfun.de)
 - [velvet.la](http://velvet.la)
+- [wantthatfont.ca](http://www.wantthatfont.ca)
 - [welcometosummer.land](http://www.welcometosummer.land)
 - [xxix.co](http://www.xxix.co)
 - [youngjerks.com](http://youngjerks.com)
@@ -118,5 +119,4 @@
 - [radimpesko.com](http://www.radimpesko.com)
 - [thepytefoundry.net](http://thepytefoundry.net)
 - [usemodify.com](http://usemodify.com)
-- [wantthatfont.ca](http://www.wantthatfont.ca)
 - [yoannminet.fr](http://www.yoannminet.fr)
