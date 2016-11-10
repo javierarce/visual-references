@@ -121,3 +121,46 @@
 - [thepytefoundry.net](http://thepytefoundry.net)
 - [usemodify.com](http://usemodify.com)
 - [yoannminet.fr](http://www.yoannminet.fr)
+
+### Typefaces
+
+- Ano
+- Apercu
+- Avenir
+- Bagnard
+- Brace
+- Brandon Grotesque
+- Calibre
+- Didot
+- DIN
+- Domaine Sans
+- Eskell
+- Ferry
+- Founders Grotesk
+- Fugue
+- Gotham
+- GT Cinetype
+- GT Eesti
+- GT Haptik
+- GT Pressura
+- GT Sectra
+- GT Walsheim Pro
+- Harbour
+- Historical
+- Knockout
+- Lato
+- Line
+- Menoe
+- Mercury
+- Minion Pro
+- Minotaur Sans
+- New Baskerville
+- Nitti Grotesk
+- Numbers
+- Ostia Antica
+- Platform
+- Raisonne
+- Requiem
+- Tungsten
+- Verlag
+- Whitney
