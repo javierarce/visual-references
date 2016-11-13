@@ -25,6 +25,7 @@
 - [fictivekin.com](http://fictivekin.com)
 - [flpr.co](http://flpr.co/)
 - [formerlyyes.com](http://www.formerlyyes.com)
+- [gimmickbook.com](http://gimmickbook.com)
 - [graphicgraphic.club](http://graphicgraphic.club)
 - [hort.org.uk](http://hort.org.uk)
 - [inescox.com](http://inescox.com)
