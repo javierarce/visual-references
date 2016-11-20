@@ -74,7 +74,7 @@ A list of visual references that make me immensely happy.
 - [toools.co](http://www.toools.co)
 - [typemedia2015.com](http://www.typemedia2015.com)
 - [unfun.de](http://unfun.de)
-- [useruki.com][http://useruki.com]
+- [useruki.com](http://useruki.com)
 - [velvet.la](http://velvet.la)
 - [wantthatfont.ca](http://www.wantthatfont.ca)
 - [welcometosummer.land](http://www.welcometosummer.land)
