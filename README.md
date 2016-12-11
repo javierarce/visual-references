@@ -69,6 +69,7 @@ A list of visual references that make me immensely happy.
 - [stephencoles.org](http://stephencoles.org)
 - [strelka.com](http://strelka.com)
 - [studio-laucke-siebein.com](http://studio-laucke-siebein.com)
+- [studiofnt.com](http://www.studiofnt.com)
 - [studiomister.com](http://www.studiomister.com)
 - [superfamous.com](http://superfamous.com)
 - [theoinglis.co.uk](http://www.theoinglis.co.uk)
