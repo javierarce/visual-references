@@ -31,7 +31,6 @@ A list of visual references that make me immensely happy.
 - [formerlyyes.com](http://www.formerlyyes.com)
 - [gimmickbook.com](http://gimmickbook.com)
 - [graphicgraphic.club](http://graphicgraphic.club)
-- [hort.org.uk](http://hort.org.uk)
 - [inescox.com](http://inescox.com)
 - [inspiration.studioworkhorse.com](http://inspiration.studioworkhorse.com)
 - [insprd.ml](http://insprd.ml)
