@@ -43,6 +43,7 @@ A list of visual references that make me immensely happy.
 - [kokpistolet.nl](http://kokpistolet.nl)
 - [kulachek.com](http://kulachek.com)
 - [kz.benwest.webfactional.com](http://kz.benwest.webfactional.com)
+- [lapolice.ch](http://www.lapolice.ch/publications)
 - [lars-mueller-publishers.com](https://www.lars-mueller-publishers.com)
 - [leejaemin.net](http://www.leejaemin.net)
 - [library.otherwork.co](http://www.library.otherwork.co)
