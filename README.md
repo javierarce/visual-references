@@ -53,6 +53,7 @@ A list of visual references that make me immensely happy.
 - [michaelevensen.com](http://www.michaelevensen.com)
 - [mirkoborsche.com](http://www.mirkoborsche.com)
 - [moreandmoreltd.com](https://moreandmoreltd.com)
+- [newmaterialism.eu](http://newmaterialism.eu)
 - [nigelevandennis.com](http://www.nigelevandennis.com)
 - [number04.com](http://number04.com)
 - [ok-rm.co.uk](http://justinsloane.com)
