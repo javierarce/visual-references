@@ -127,6 +127,7 @@ A list of visual references that make me immensely happy.
 
 ### Foundries
 
+- [bold-decisions.biz](https://bold-decisions.biz)
 - [boldmonday.com](https://boldmonday.com)
 - [colophon-foundry.org](http://www.colophon-foundry.org)
 - [commercialtype.com](https://commercialtype.com)
