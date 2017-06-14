@@ -52,6 +52,7 @@ A list of visual references that make me immensely happy.
 - [michaelevensen.com](http://www.michaelevensen.com)
 - [mirkoborsche.com](http://www.mirkoborsche.com)
 - [moreandmoreltd.com](https://moreandmoreltd.com)
+- [museionprize.museion.it](http://museionprize.museion.it)
 - [newmaterialism.eu](http://newmaterialism.eu)
 - [nigelevandennis.com](http://www.nigelevandennis.com)
 - [number04.com](http://number04.com)
@@ -75,6 +76,7 @@ A list of visual references that make me immensely happy.
 - [studioc.dk](http://www.studioc.dk)
 - [studiofnt.com](http://www.studiofnt.com)
 - [studiomister.com](http://www.studiomister.com)
+- [studiomut.com](http://studiomut.com)
 - [superfamous.com](http://superfamous.com)
 - [theoinglis.co.uk](http://www.theoinglis.co.uk)
 - [thierryblancpain.com](http://thierryblancpain.com)
@@ -124,9 +126,11 @@ A list of visual references that make me immensely happy.
 
 ### Foundries
 
+- [bold-decisions.biz](https://bold-decisions.biz)
 - [boldmonday.com](https://boldmonday.com)
 - [colophon-foundry.org](http://www.colophon-foundry.org)
 - [commercialtype.com](https://commercialtype.com)
+- [fatype.com](https://fatype.com)
 - [grillitype.com](http://grillitype.com)
 - [klim.co.nz](https://klim.co.nz)
 - [lettersfromsweden.se](http://lettersfromsweden.se)
