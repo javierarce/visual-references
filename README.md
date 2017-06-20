@@ -51,6 +51,7 @@ A list of visual references that make me immensely happy.
 - [magasindesobjetsusuels.com](http://www.magasindesobjetsusuels.com)
 - [michaelevensen.com](http://www.michaelevensen.com)
 - [mirkoborsche.com](http://www.mirkoborsche.com)
+- [misc-design-co.com](http://www.misc-design-co.com)
 - [moreandmoreltd.com](https://moreandmoreltd.com)
 - [museionprize.museion.it](http://museionprize.museion.it)
 - [newmaterialism.eu](http://newmaterialism.eu)
