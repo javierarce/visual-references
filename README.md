@@ -2,16 +2,24 @@ A list of visual references that make me immensely happy.
 
 ### WWW
 
+#### A
+
 - [antonandirene.com](http://antonandirene.com)
 - [aplusplus.org](http://aplusplus.org)
 - [aqqindex.com](http://aqqindex.com)
 - [arkotype.co](http://arkotype.co)
+
+#### B
+
 - [badesaison.ch](http://www.badesaison.ch)
 - [bakkenbaeck.com](https://bakkenbaeck.com)
 - [booksongraphicdesign.com](https://booksongraphicdesign.com)
 - [bookswemade.com](http://www.bookswemade.com)
 - [braul.io](http://www.braul.io)
 - [braulioamado.tumblr.com](http://braulioamado.tumblr.com)
+
+#### C
+
 - [camelot-typefaces.com](https://www.camelot-typefaces.com)
 - [canopy.co](https://canopy.co)
 - [carlkleiner.com](http://www.carlkleiner.com)
@@ -19,47 +27,84 @@ A list of visual references that make me immensely happy.
 - [carnehamburguesas.com](http://www.carnehamburguesas.com)
 - [circayesterday.com](http://circayesterday.com)
 - [cushionapp.com](http://cushionapp.com)
+
+#### D
+
 - [danielgray.com](http://danielgray.com)
 - [delcan.co](http://delcan.co)
 - [documenta14.de](http://www.documenta14.de/en)
 - [dow-smith.com](http://dow-smith.com)
+
+#### E
+
 - [elanaschlenker.com](http://elanaschlenker.com)
 - [enjoy.org.nz](http://paulgacon.com/en)
+
+#### F
+
 - [feixen.ch](http://www.feixen.ch)
 - [fictivekin.com](http://fictivekin.com)
 - [flpr.co](http://flpr.co/)
 - [formcontent.org](http://formcontent.org)
 - [formerlyyes.com](http://www.formerlyyes.com)
+
+#### G
+
 - [geraygencer.com](http://www.geraygencer.com)
 - [gimmickbook.com](http://gimmickbook.com)
 - [graphicgraphic.club](http://graphicgraphic.club)
+
+#### I
+
 - [inescox.com](http://inescox.com)
 - [inspiration.studioworkhorse.com](http://inspiration.studioworkhorse.com)
 - [insprd.ml](http://insprd.ml)
 - [isabelandhelen.com](http://isabelandhelen.com)
+
+#### J
+
 - [jeremy-glatre.com](http://jeremy-glatre.com)
 - [jonasberthod.ch](http://jonasberthod.ch)
 - [julienlelievre.com](http://www.julienlelievre.com)
 - [justinsloane.com](http://justinsloane.com)
+
+#### K
+
 - [kokpistolet.nl](http://kokpistolet.nl)
 - [kulachek.com](http://kulachek.com)
 - [kz.benwest.webfactional.com](http://kz.benwest.webfactional.com)
+
+#### L
+
 - [lapolice.ch/publications](http://www.lapolice.ch/publications)
 - [lars-mueller-publishers.com](https://www.lars-mueller-publishers.com)
 - [leejaemin.net](http://www.leejaemin.net)
 - [library.otherwork.co](http://www.library.otherwork.co)
 - [ligature.ch](http://ligature.ch)
+- [lightscale.com](http://lightscale.com) 
+
+#### M
+
 - [magasindesobjetsusuels.com](http://www.magasindesobjetsusuels.com)
 - [michaelevensen.com](http://www.michaelevensen.com)
 - [mirkoborsche.com](http://www.mirkoborsche.com)
 - [misc-design-co.com](http://www.misc-design-co.com)
 - [moreandmoreltd.com](https://moreandmoreltd.com)
 - [museionprize.museion.it](http://museionprize.museion.it)
+
+#### N
+
 - [newmaterialism.eu](http://newmaterialism.eu)
 - [nigelevandennis.com](http://www.nigelevandennis.com)
 - [number04.com](http://number04.com)
+
+#### O
+
 - [ok-rm.co.uk](http://justinsloane.com)
 - [okhillary.com](http://okhillary.com)
+
+#### P
+
 - [paulgacon.com](http://paulgacon.com/en)
 - [persona.co](https://persona.co)
 - [peteanicholson.com](http://peteanicholson.com)
@@ -67,7 +112,13 @@ A list of visual references that make me immensely happy.
 - [platplatformform.com](http://platplatformform.com)
 - [practicaltypography.com](http://practicaltypography.com/typography-in-ten-minutes.html)
 - [preserve.northernarmy.com](http://preserve.northernarmy.com)
+
+#### R
+
 - [raymasaki.cool](http://raymasaki.cool)
+
+#### S
+
 - [schick-toikka.com](http://www.schick-toikka.com)
 - [seththompson.org](https://seththompson.org)
 - [showcase.persona.co](https://showcase.persona.co)
@@ -81,20 +132,43 @@ A list of visual references that make me immensely happy.
 - [studiomister.com](http://www.studiomister.com)
 - [studiomut.com](http://studiomut.com)
 - [superfamous.com](http://superfamous.com)
+
+#### T
+
 - [theoinglis.co.uk](http://www.theoinglis.co.uk)
 - [thierryblancpain.com](http://thierryblancpain.com)
 - [todeschini-mamie.ch](http://todeschini-mamie.ch)
 - [toools.co](http://www.toools.co)
 - [typemedia2015.com](http://www.typemedia2015.com)
+
+#### U
+
 - [ultra.studio](http://ultra.studio)
 - [unfun.de](http://unfun.de)
 - [useruki.com](http://useruki.com)
+
+#### V
+
 - [velvet.la](http://velvet.la)
+
+#### W
+
 - [wantthatfont.ca](http://www.wantthatfont.ca)
 - [welcometosummer.land](http://www.welcometosummer.land)
+
+#### X
+
 - [xxix.co](http://www.xxix.co)
+
+#### Y
+
 - [youngjerks.com](http://youngjerks.com)
+
+#### Z
+
 - [zyxt.info](http://zyxt.info)
+
+---
 
 ### Images
 
