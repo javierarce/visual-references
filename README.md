@@ -219,6 +219,7 @@ A list of visual references that make me immensely happy.
 
 # M
 
+- [Magoz](http://magoz.is)
 - [Luis Mendo](http://www.luismendo.com)
 - [Nicolas Ménard](http://www.nicolasmenard.com)
 
