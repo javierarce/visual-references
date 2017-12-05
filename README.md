@@ -126,6 +126,7 @@ A list of visual references that make me immensely happy.
 - [showcase.persona.co](https://showcase.persona.co)
 - [shuka.design](https://shuka.design)
 - [smallvictori.es](http://www.smallvictori.es)
+- [sometimespublishing.com](http://sometimespublishing.com)
 - [stephencoles.org](http://stephencoles.org)
 - [strelka.com](http://strelka.com)
 - [studio-laucke-siebein.com](http://studio-laucke-siebein.com)
