@@ -181,28 +181,68 @@ A list of visual references that make me immensely happy.
 
 *WIP*
 
-- [Brian Rea](http://www.brianrea.com)
+# A
+
+- [Pedro Alpera](http://blog.pedroalpera.com)
+
+# B
+
+- [Cute Brute](https://www.instagram.com/thecutebrute/)
+
+# D
+
 - [Cristina Daura](https://www.behance.net/cristinadaura)
-- [Cute Brute ](https://www.instagram.com/thecutebrute/)
-- [Daniel Shaffer](http://www.daniel-shaffer.com)
-- [Dominic Kesterton](http://dominickesterton.com)
-- [Eleni Kalorkoti](http://www.elenikalorkoti.com)
+
+# F
+
+- [Juan Díaz Faes](http://juandiazfaes.com)
+- [Sophia Foster-Dimino](http://www.hellophia.com)
+
+# I 
+
+- [Maria Inés](http://mariainesgul.com)
+
+# J
+
 - [Javier Jaén](http://www.javierjaen.com)
 - [José ja ja ja](http://josejajaja.com)
-- [Juan Díaz Faes](http://juandiazfaes.com)
-- [Kikillo Serrano](https://dribbble.com/Kikillo)
-- [Lasse Russe](http://lazpit.com)
+
+# K
+
+- [Eleni Kalorkoti](http://www.elenikalorkoti.com)
 - [Laszlo Kovacs](http://www.laszlito.com/)
-- [Luis Mendo](http://www.luismendo.com)
-- [Maria Inés](http://mariainesgul.com)
-- [Nicolas Ménard](http://www.nicolasmenard.com)
-- [Ohelli](http://ohelli.tumblr.com)
-- [Pedro Alpera](http://blog.pedroalpera.com)
-- [Ping Zhu](http://www.pingszoo.com)
-- [Puño](http://www.kokekoko.com)
+- [Dominic Kesterton](http://dominickesterton.com)
+
+# L 
+
 - [Raymond Lemstra](http://www.raymondlemstra.nl)
+
+# M
+
+- [Luis Mendo](http://www.luismendo.com)
+- [Nicolas Ménard](http://www.nicolasmenard.com)
+
+# O
+
+- [Ohelli](http://ohelli.tumblr.com)
+
+# P 
+
 - [Richard Perez](http://www.skinnyships.com/)
-- [Sophia Foster-Dimino](http://www.hellophia.com)
+- [Puño](http://www.kokekoko.com)
+
+# R
+- [Brian Rea](http://www.brianrea.com)
+- [Lasse Russe](http://lazpit.com)
+
+# S
+
+- [Daniel Shaffer](http://www.daniel-shaffer.com)
+- [Kikillo Serrano](https://dribbble.com/Kikillo)
+
+# Z
+
+- [Ping Zhu](http://www.pingszoo.com)
 
 ### Foundries
 
