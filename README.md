@@ -159,6 +159,7 @@ A list of visual references that make me immensely happy.
 
 - [wantthatfont.ca](http://www.wantthatfont.ca)
 - [welcometosummer.land](http://www.welcometosummer.land)
+- [workof.com/shop/designers](https://workof.com/shop/designers)
 
 #### X
 
