@@ -59,7 +59,6 @@ A list of visual references that make me immensely happy.
 #### I
 
 - [inescox.com](http://inescox.com)
-- [inspiration.studioworkhorse.com](http://inspiration.studioworkhorse.com)
 - [insprd.ml](http://insprd.ml)
 - [isabelandhelen.com](http://isabelandhelen.com)
 
@@ -72,7 +71,7 @@ A list of visual references that make me immensely happy.
 
 #### K
 
-- [http://klikkentheke.com/a-z](http://klikkentheke.com/a-z)
+- [klikkentheke.com/a-z](http://klikkentheke.com/a-z)
 - [kokpistolet.nl](http://kokpistolet.nl)
 - [kulachek.com](http://kulachek.com)
 - [kz.benwest.webfactional.com](http://kz.benwest.webfactional.com)
