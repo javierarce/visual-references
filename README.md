@@ -6,7 +6,7 @@ A list of visual references that make me immensely happy.
 
 - [amessagefrom.earth](http://amessagefrom.earth)
 - [antonandirene.com](http://antonandirene.com)
-- [aplusplus.org](http://aplusplus.org)
+- [aplusplus.org](http://aplusplus.org)/haw
 - [aqqindex.com](http://aqqindex.com)
 - [arkotype.co](http://arkotype.co)
 
@@ -56,6 +56,10 @@ A list of visual references that make me immensely happy.
 - [geraygencer.com](http://www.geraygencer.com)
 - [gimmickbook.com](http://gimmickbook.com)
 - [graphicgraphic.club](http://graphicgraphic.club)
+
+#### H
+
+- [hawraf.com](http://hawraf.com)
 
 #### I
 
