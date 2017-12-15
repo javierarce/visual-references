@@ -5,6 +5,7 @@ A list of visual references that make me immensely happy.
 #### A
 
 - [amessagefrom.earth](http://amessagefrom.earth)
+- [annualreportt.com](http://www.annualreportt.com)
 - [antonandirene.com](http://antonandirene.com)
 - [aplusplus.org](http://aplusplus.org)
 - [aqqindex.com](http://aqqindex.com)
