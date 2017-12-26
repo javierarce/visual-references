@@ -250,6 +250,7 @@ A list of visual references that make me immensely happy.
 # S
 
 - [Daniel Shaffer](http://www.daniel-shaffer.com)
+- [Arina Shabanova](http://arinashabanova.com)
 - [Kikillo Serrano](https://dribbble.com/Kikillo)
 
 # Z
