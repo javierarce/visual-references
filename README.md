@@ -202,10 +202,10 @@ A list of visual references that make me immensely happy.
 # D
 
 - [Cristina Daura](https://www.behance.net/cristinadaura)
+- [Juan Díaz Faes](http://juandiazfaes.com)
 
 # F
 
-- [Juan Díaz Faes](http://juandiazfaes.com)
 - [Sophia Foster-Dimino](http://www.hellophia.com)
 
 # I 
@@ -241,6 +241,7 @@ A list of visual references that make me immensely happy.
 
 - [Richard Perez](http://www.skinnyships.com/)
 - [Puño](http://www.kokekoko.com)
+- [Jeremy Perrodeau](http://www.jeremyperrodeau.com)
 
 # R
 - [Brian Rea](http://www.brianrea.com)
