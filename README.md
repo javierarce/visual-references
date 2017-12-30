@@ -208,7 +208,11 @@ A list of visual references that make me immensely happy.
 
 - [Sophia Foster-Dimino](http://www.hellophia.com)
 
-# I 
+# G
+
+- [Luci Gutierrez](http://holeland.com)
+
+# I
 
 - [Maria Inés](http://mariainesgul.com)
 
