@@ -184,7 +184,7 @@ A list of visual references that make me immensely happy.
 ### Images
 
 - [My Tumblr likes](https://www.tumblr.com/liked/by/javierarce)
-- [A tumblr of my tumblr likes](https://drawwwings.tumblr.com)
+- [A tumblr of my tumblr likes](https://infraordinaries.tumblr.com)
 
 
 ### Illustrators
