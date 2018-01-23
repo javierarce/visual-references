@@ -34,6 +34,8 @@ A list of visual references that make me immensely happy.
 
 - [danielgray.com](http://danielgray.com)
 - [delcan.co](http://delcan.co)
+- [desmondwong.com](http://desmondwong.com)
+- [work.desmondwong.com](http://work.desmondwong.com)
 - [documenta14.de](http://www.documenta14.de/en)
 - [dow-smith.com](http://dow-smith.com)
 
