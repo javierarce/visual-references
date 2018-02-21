@@ -153,6 +153,7 @@ A list of visual references that make me immensely happy.
 - [thierryblancpain.com](http://thierryblancpain.com)
 - [todeschini-mamie.ch](http://todeschini-mamie.ch)
 - [toools.co](http://www.toools.co)
+- [torquetorque.net](http://torquetorque.net)
 - [typemedia2015.com](http://www.typemedia2015.com)
 
 #### U
