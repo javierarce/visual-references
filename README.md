@@ -80,6 +80,7 @@ A list of visual references that make me immensely happy.
 
 #### K
 
+- [Kazumasa Nagai](https://stories.readymag.com/nagai)
 - [klikkentheke.com/a-z](http://klikkentheke.com/a-z)
 - [kokpistolet.nl](http://kokpistolet.nl)
 - [kulachek.com](http://kulachek.com)
